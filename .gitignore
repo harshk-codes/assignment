@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# Backend
+/backend/node_modules/
+/backend/dist/
+/backend/.env
+
+
+# System Files
+.DS_Store
