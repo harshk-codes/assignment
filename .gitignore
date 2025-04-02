@@ -8,6 +8,5 @@ node_modules/
 /backend/dist/
 /backend/.env
 
-
 # System Files
 .DS_Store
